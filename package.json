@@ -1,0 +1,24 @@
+{
+	"name": "final_project_online_shop",
+	"version": "0.0.1",
+	"description": "Final Project -Online Commerce Website",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "serve"
+	},
+	"keywords": [
+		"Front",
+		"end",
+		"HTML",
+		"CSS",
+		"JS"
+	],
+	"author": "Octavia Iuga",
+	"license": "ISC",
+	"dependencies": {
+		"bootstrap": "^5.1.1",
+		"node-modules": "^1.0.1",
+		"serve": "^12.0.1"
+	}
+}

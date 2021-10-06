@@ -1,0 +1,404 @@
+[
+    {
+     "name": "Organic Ginger&Lemon Infusion",
+     "picture": "https://s.cdnmpro.com/224048934/p/l/4/smiling-buddha-superior-elements-tea-organic-green-blend-ginger-lemon~784.jpg",
+     "price": "23.00",
+     "quantity": 7,
+     "currency": "lei",
+     "category": "Tea",
+     "description": "Amestec de ceai verde, fructe si plante - cu gust de ghimbir si lamaie.O zi fără zâmbet este o zi pierdută! Ceaiul Smilling Buddha ORGANIC îți va aduce un zâmbet pe față cu atingerea sa plăcută picantă de ghimbir și accentele proaspat-  fructate ale ierbii de lămâie.",
+     "id": "1"
+    },
+    {
+     "name": "Organic Mint Infusion ",
+     "picture": "https://s.cdnmpro.com/224048934/p/l/8/marrakesh-nights-tea-organic-handmade-ceai-verde-si-plante-cu-gust-de~798.jpg",
+     "price": "13.00",
+     "quantity": 71,
+     "currency": "lei",
+     "category": "Tea",
+     "description": "Ingrediente: ceai verde Gunpowder China, menta, menta creata.Ceaiul de plante este o traditie veche necesara sanatatii amestecata cu placerea naturala pe care ni-l ofera gustul  aromat!Diversitatea naturii ne ofera amestecuri nelimitate si  deosebit de inspirate!",
+     "id": "2"
+    },
+    {
+     "name": "Organic Blend -Jasmine Taste",
+     "picture": "https://s.cdnmpro.com/224048934/p/l/0/jasmin-imperial-tea-organic-green-blend-handmade-jasmine-taste~800.jpg",
+     "price": "25.00",
+     "quantity": 84,
+     "currency": "lei",
+     "category": "Tea",
+     "description": "Amestec de Ceai verde - cu gust de iasomie",
+     "id": "3"
+    },
+    {
+     "name": " ORGANIC TEA GREEN BLEND EXOTIC TASTE",
+     "picture": "https://s.cdnmpro.com/224048934/p/l/5/morning-melody-superior-elements-organic-tea-green-blend-exotic~785.jpg",
+     "price": "35.00",
+     "quantity": 38,
+     "currency": "lei",
+     "category": "Tea",
+     "description": "Amestecul de ceaiuri verde si alb vine aici cu o aromă exotică  de bergamota! Morning Mellody ORGANIC are un aspect impresionant,  viu colorat, realizat din flori de gălbenele, petale de trandafir  și violete.",
+     "id": "4"
+    },
+    {
+     "name": "ORGANIC HANDMADE - Mandarine Grapefruit Taste ",
+     "picture": "https://s.cdnmpro.com/224048934/p/l/1/mellow-mandarine-superior-elements-tea-organic-handmade-mandarine~791.jpg",
+     "price": "33.00",
+     "quantity": 11,
+     "currency": "lei",
+     "category": "Tea",
+     "description": "Ceaiul verde Sencha  și perlele speciale Jasmine Dragon conferă  acestui ceai o eleganță exaltantă, care se finalizeaza într-o notă  de mango exotic. Ingrediente: ceai verde China Sencha, galbenele, arome anturale,   coji de portocale, melisa, verbina, mandarine taiate (2%), planta  floarea pasiunii, “perle “ de ceai China Jasmine Dragon, mango,  flori de lime.",
+     "id": "17"
+    },
+    {
+        "name": "Organic Citrus Herbs Tea",
+        "picture": "https://s.cdnmpro.com/224048934/p/l/2/summer-miracle-superior-elements-organic-tea-rooibos-blend-handmade~752.jpg",
+        "price": "34.00",
+        "quantity": 62,
+        "currency": "lei",
+        "category": "Tea",
+        "description": "Rooibosul blând, natural și exotic, se unește cu căpșunile suculente, cojile de portocală aromate și frunzele de flori strălucitoare, pentru a crea un amestec plăcut ușor!",
+        "id": "25"
+    },
+    {
+        "name": "Organic- Spicy Chai Taste",
+        "picture": "https://s.cdnmpro.com/224048934/p/l/3/women-s-power-superior-elements-tea-organic-herbal-blend-handmade~783.jpg",
+        "price": "35.00",
+        "quantity": 81,
+        "currency": "lei",
+        "category": "Tea",
+        "description": " Women’s Power ORGANIC va trezeste dandu-va energia zilei cu ghimbirul sau blând, piperul negru, cuișoarele și cardamonul,  promovându-vă sentimentul de echilibru cu mărul său dulce și frunzele de mur delicioase.",
+        "id": "26"
+    },
+    {
+        "name": "Organic-Bergamot Orange Lemon Taste",
+        "picture": "https://s.cdnmpro.com/224048934/p/l/6/lady-star-deluxe-tea-organic-black-blend-handmade-bergamot-orange~1236.jpg",
+        "price": "33.00",
+        "quantity": 36,
+        "currency": "lei",
+        "category": "Tea",
+        "description": "Amestec de Ceai negru, Fructe si Plante - cu gust de bergamota, portocala si lamaie",
+        "id": "27"
+    },
+    {
+        "name": " ORGANIC BLACK BLEND - Red Fruit Taste",
+        "picture": "https://s.cdnmpro.com/224048934/p/l/0/blackberry-tango-tea-organic-black-blend-handmade-with-love-red-fruit~780.jpg",
+        "price": "34.00",
+        "quantity": 44,
+        "currency": "lei",
+        "category": "Tea",
+        "description": "Amestec de ceai negru, fructe si plante - cu gust de fructe rosii",
+        "id": "20"
+    },
+    {
+     "name": "Bio Matcha Tea",
+     "picture": "https://gymbeam.ro/media/catalog/product/cache/926507dc7f93631a094422215b778fe0/m/a/matcha-caj-bio-200-g-wolfberry-2.jpg",
+     "price": "49.00",
+     "quantity": 37,
+     "currency": "lei",
+     "category": "Tea",
+     "description": "Ceaiul Matcha este un tip de ceai excepțional, care conține vitamine, minerale și aminoacizi. Este o pulbere fină, de o culoare  verde puternic, aceasta se amestecă cu apă fierbinte cu ajutorul unei  ustensile din bambus şi se bea nestrecurat. În plus, este potrivit ca ingredient în prepararea mâncărurilor",
+     "id": "18"
+    },
+    {
+     "name": "BIO Ceai de flori de lavandă",
+     "picture": "https://gymbeam.ro/media/catalog/product/cache/926507dc7f93631a094422215b778fe0/c/a/caj_levandule_kvet.jpeg",
+     "price": "37.00",
+     "quantity": 13,
+     "currency": "lei",
+     "category": "Tea",
+     "description": " Ceaiul de flori de lavandă conține flori de lavandă uscate care sunt căutate pentru posibilele efecte calmante. Are un parfum dulce- picant cu o tentă de lămâie și mentă. Aroma este florală, dulce, ușor amăruie și poate chiar aminti de rozmarin. Este un ceai de seară ideal. În plus, puteți adăuga frunzele uscate în baia fierbinte pentru a crea un spa relaxant acasă.",
+     "id": "19"
+    },
+    
+    {
+     "name": "Ceai de Armurariu - Wolfberry",
+     "picture": "https://gymbeam.ro/media/catalog/product/cache/926507dc7f93631a094422215b778fe0/o/s/ostropestrec-plod-bylinny-caj-wolfberry-50-g.jpg",
+     "price": "10.00",
+     "quantity": 25,
+     "currency": "lei",
+     "category": "Tea",
+     "description": "Ceaiul de Armurariu acționează ca un antioxidant și susține mai multe funcții ale organismului. Ceaiul este de calitate superioară și are un gust excelent de plante.",
+     "id": "21"
+    },
+    {
+     "name": "Ceai Ginkgo biloba - Wolfberry",
+     "picture": "https://gymbeam.ro/media/catalog/product/cache/926507dc7f93631a094422215b778fe0/g/i/ginkgo-biloba-bylinny-caj-50-g-wolfberry.jpg",
+     "price": "10.00",
+     "quantity": 45,
+     "currency": "lei",
+     "category": "Tea",
+     "description": "Ceaiul Ginkgo biloba este o sursă ideală de antioxidanți, flavonoide și acizi organici, care sunt utili în combaterea oxidării celulare și a influenței radicalilor liberi. Ceaiul Ginkgo biloba este ideal în perioadele stresante.",
+     "id": "22"
+    },
+    {
+     "name": "Ceai verde Gundpowder - Wolfberry",
+     "picture": "https://gymbeam.ro/media/catalog/product/cache/926507dc7f93631a094422215b778fe0/z/e/zeleny-caj-gunpowder-50-g-wolfberry.jpg",
+     "price": "13.00",
+     "quantity": 24,
+     "currency": "lei",
+     "category": "Tea",
+     "description": "Gundpowder este un tip de ceai verde, care a fost denumit după forma frunzelor uscate. Este un ceai cu gust excelent, similar cu stejarul sau nucul. ",
+     "id": "23"
+    },
+    {
+     "name": "Ceai de Colții babei (Tribulus terrestris) - Wolfberry",
+     "picture": "https://gymbeam.ro/media/catalog/product/cache/926507dc7f93631a094422215b778fe0/k/o/kotvicnik-bylinny-caj-wolfberry-50-g.jpg",
+     "price": "9.00",
+     "quantity": 55,
+     "currency": "lei",
+     "category": "Tea",
+     "description": "Ceaiul de plante (Tribulus terrestris) conține frunze uscate ale plantei denumite popular Colții babei (Tribulus terrestris). Este o plantă cunoscută în medicina tradițională chineză și indiană. Are o culoare plăcută și un gust puternic amar, pe care îl puteți ameliora prin îndulcirea ceaiului.",
+     "id": "24"
+    },
+    
+    {
+     "name": "BIO Ceai negru Earl Grey - Sonnentor",
+     "picture": "https://gymbeam.ro/media/catalog/product/cache/926507dc7f93631a094422215b778fe0/c/a/caj_earl_grey.jpeg",
+     "price": "20.00",
+     "quantity": 47,
+     "currency": "lei",
+     "category": "Tea",
+     "description": "BIO Earl Grey este un ceai negru aromat cu conținut de cafeină. Cafeina oferă atât un stimul mintal, cât și fizic înainte de orice activitate care necesită performanță și concentrare maximă. Ceaiul negru este considerat un clasic britanic, care este obligatoriu la fiecare ocazie. Este îmbogățit cu BIO ulei esențial de bergamotă pur, care este obținut din citrice și conferă ceaiului negru tonurile de fructe proaspete. Este produs folosind un proces de fermentare.",
+     "id": "29"
+    },
+    {
+     "name": "BIO Ceai verde și iasomie - Sonnentor",
+     "picture": "https://gymbeam.ro/media/catalog/product/cache/926507dc7f93631a094422215b778fe0/y/k/yk-hxwna.jpeg",
+     "price": "14.00",
+     "quantity": 61,
+     "currency": "lei",
+     "category": "Tea",
+     "description": "BIO Ceaiul verde și iasomie conține frunze uscate de plantă de ceai verde, amestecate cu flori de iasomie proaspăt culese. Această combinație armonioasă o să vă delecteze cu aroma delicată și parfumul floral, care evocă o atmosferă plăcută oriunde v-ați afla. Ceaiul verde este cunoscut pentru conținutul de antioxidanți benefici și cafeină stimulativă.",
+     "id": "30"
+    },
+    {
+     "name": "BIO Chinese Green Tea - Sonnentor",
+     "picture": "https://gymbeam.ro/media/catalog/product/cache/926507dc7f93631a094422215b778fe0/q/o/qoxl7cia.jpeg",
+     "price": "14.00",
+     "quantity": 17,
+     "currency": "lei",
+     "category": "Tea",
+     "description": " Această combinație armonioasă o să vă delecteze cu aroma delicată și parfumul floral, care evocă o atmosferă plăcută oriunde v-ați afla. Ceaiul verde este cunoscut pentru conținutul de antioxidanți benefici și cafeină stimulativă ",
+     "id": "31"
+    },
+    {
+     "name": "BIO Ceai de plante Fenicul-Anason-Chimen - Sonnentor",
+     "picture": "https://gymbeam.ro/media/catalog/product/cache/926507dc7f93631a094422215b778fe0/7/0/70ohxoaw.jpeg",
+     "price": "13.00",
+     "quantity": 38,
+     "currency": "lei",
+     "category": "Tea",
+     "description": "BIO Ceaiul de plante Fenicul-Anason-Chimen este un amestec de plante cu un gust ușor dulce și o notă de parfum de lămâie. Ingredientele sale sunt în întregime organice și includ fenicul, anason, chimen și balsam de lămâie. Aceste ierburi sunt o soluție obișnuită pentru balonare și alte probleme digestive.",
+     "id": "32"
+    },
+    {
+     "name": "BIO Ceai Womanly Support - Sonnentor",
+     "picture": "https://gymbeam.ro/media/catalog/product/cache/926507dc7f93631a094422215b778fe0/e/x/exfbdxxg.jpeg",
+     "price": "12.00",
+     "quantity": 94,
+     "currency": "lei",
+     "category": "Tea",
+     "description": "BIO Ceaiul Womanly Support este un ceai delicios în pliculețe de ceai practice care conțin un amestec de boabe de ienupăr, urzică, flori de soc, coada șoricelului și salvie. Este conceput în special pentru femeile care doresc să se liniștească în timpul zilelor agitate sau a altor situații stresante. Are gust și aromă delicioase, pe care le veți adora de la prima înghițitură.",
+     "id": "33"
+    },
+    {
+     "name": "Ceai de seară - Sonnentor",
+     "picture": "https://gymbeam.ro/media/catalog/product/cache/926507dc7f93631a094422215b778fe0/0/c/0cgwaxua.jpeg",
+     "price": "11.00",
+     "quantity": 47,
+     "currency": "lei",
+     "category": "Tea",
+     "description": " Ceaiul de seară este un ceai delicios sub formă de plic practic ce conține un amestec de roiniță, frunze de mur, nalbă și măceșe. Este recomandat în special persoanelor care încearcă să se liniștească după o zi lungă și să adoarmă ușor. Prin urmare, consumul său este ideal cu aproximativ o oră înainte de culcare. Dacă vă place ceaiul din plante, cu siguranță vă veți îndrăgosti de acesta.",
+     "id": "34"
+    },
+    {
+     "name": "Ceai cu ghimbir și lămâie - Sonnentor",
+     "picture": "https://gymbeam.ro/media/catalog/product/cache/926507dc7f93631a094422215b778fe0/y/u/yuy4uifq.jpeg",
+     "price": "11.00",
+     "quantity": 74,
+     "currency": "lei",
+     "category": "Tea",
+     "description": " Ceaiul cu ghimbir și lămâie este un ceai delicios care cu siguranță vă va încălzi datorită ghimbirului. În plus, conține alte ingrediente, cum ar fi coaja de lămâie, lemn dulce, piper, mentă și hibiscus. Datorită ierburilor folosite, gustul său este ușor înțepător și dulce. Este sub formă practică de pliculețe de ceai, ceea ce face ca prepararea sa să fie cu adevărat ușoară.",
+     "id": "35"
+    },
+    {
+     "name": "Busuioc - Sonnentor",
+     "picture": "https://gymbeam.ro/media/catalog/product/cache/926507dc7f93631a094422215b778fe0/a/n/anofgyrg.jpeg",
+     "price": "11.00",
+     "quantity": 75,
+     "currency": "lei",
+     "category": "Tea",
+     "description": " Busuiocul este un condiment din frunzele uscate ale plantei busuioc. Este caracterizat prin gustul delicios și aroma specifică, care sunt parte integrală a mai multor preparate italienești. Nu ne putem imagina spaghetele, pizza, sau salata Caprese fără acesta. Mai multe, va duce la un nou nivel orice salate, pesto și chiar deserturi.",
+     "id": "36"
+    },
+    {
+     "name": "Ceai verde BIO - Japan Premium Sencha Konomi",
+     "picture": "https://gomagcdn.ro/domains/hellobio.ro/files/product/original/10-72942_Ceai-verde-BIO---Premium_Sencha_Konomi.jpg-4436-2775.jpg",
+     "price": "112.00",
+     "quantity": 7,
+     "currency": "lei",
+     "category": "Premium Tea",
+     "description": "Aroma ceaiului Premium Sencha Konomi combina note savuroase de umami si un caracter floral delicat ",
+     "id": "37"
+    },
+    {
+     "name": "Ceai verde Bio - Japan Gyokuro Kusanagi",
+     "picture": "https://gomagcdn.ro/domains/hellobio.ro/files/product/large/ceai-verde-bio-gyokuro-kusanagi-4506-1804.jpg",
+     "price": "113.00",
+     "quantity": 51,
+     "currency": "lei",
+     "category": "Premium Tea",
+     "description": "Un amestec neinfricat, gata sa surprinda prin savoare. Un gust dulce fructat, perfect pentru cunoscatori.",
+     "id": "38"
+    },
+    {
+     "name": "Ceai negru Bio - India SFTGFOP1 Tonganagaon",
+     "picture": "https://gomagcdn.ro/domains/hellobio.ro/files/product/large/ceai-negru-bio-india-sftgfop1-tonganagaon-6304-3394.jpg",
+     "price": "114.00",
+     "quantity": 58,
+     "currency": "lei",
+     "category": "Premium Tea ",
+     "description": "Aromizarea perfecta dintre intensitatea maltului si dulceata mierii.",
+     "id": "39"
+    },
+    {
+     "name": "Ceai alb Bio - Rwanda Rukeri White Highlands",
+     "picture": "https://gomagcdn.ro/domains/hellobio.ro/files/product/large/ceai-alb-bio-rukeri-white-highlands-4496-6097.jpg",
+     "price": "127.00",
+     "quantity": 19,
+     "currency": "lei",
+     "category": "Premium Tea",
+     "description": "Licoare cu gust desavarsit, avand note dulci picante. Un ceai alb extrem de rar din Rwanda.",
+     "id": "40"
+    },
+    {
+     "name": "Ceai negru Bio - China Premim Pu Erh Menghai Five Years",
+     "picture": "https://gomagcdn.ro/domains/hellobio.ro/files/product/large/ceai-bio-china-premim-pu-erh-menghai-five-years-2293-5620.jpg",
+     "price": "99.00",
+     "quantity": 57,
+     "currency": "lei",
+     "category": "Premium Tea",
+     "description": "Acest ceai Pu Erh isi datoreaza aroma sa unica de ciocolata amaruie, fructe uscate si melasa celor cinci ani de maturare. De zeci de ani, fabrica Menghai Pu Erh este cunoscuta pentru cele mai fine ceaiuri Pu Erh. Preparat, capata in ceasca o culoare rosie intensa.",
+     "id": "41"
+    },
+    {
+     "name": "Ceai negru Bio - Taiwan Sun Moon Lake Competition Grade",
+     "picture": "https://gomagcdn.ro/domains/hellobio.ro/files/product/large/ceai-negru-bio-taiwan-sun-moon-lake-competition-grade-6302-1609.jpg",
+     "price": "92.00",
+     "quantity": 94,
+     "currency": "lei",
+     "category": "Premium Tea",
+     "description": "Un ceai bland, usor afumat, usor rosiatic, rezultatul contrastului dintre Soare si Luna. ",
+     "id": "42"
+    },
+    {
+     "name": "Ceai oolong Bio - Nepal Himalayan FTGFOP1 Orange Hill First Flush",
+     "picture": "https://gomagcdn.ro/domains/hellobio.ro/files/product/large/ceai-oolong-bio-himalayan-ftgfop1-orange-hill-first-flush-4499-2049.jpg",
+     "price": "92.00",
+     "quantity": 6,
+     "currency": "lei",
+     "category": "Premium Tea",
+     "description": "Ceai delicat, galbui, avand o nota florala si aroma de nuci.",
+     "id": "43"
+    },
+    {
+     "name": "Ceai alb Bio - Sri Lanka White Heaven Scent",
+     "picture": "https://gomagcdn.ro/domains/hellobio.ro/files/product/original/ceai-alb-bio-sri-lanka-white-heaven-scent-4614-1749.jpg",
+     "price": "83.00",
+     "quantity": 21,
+     "currency": "lei",
+     "category": "Premium Tea",
+     "description": "Cu gust citric, sora deschisa a Ceylon-ului este pregatita sa incante.",
+     "id": "44"
+    },
+    {
+     "name": "INFUZOR CEAI ",
+     "picture": "https://doro-tea.ro/image/cache/data/0421/infuzor-ceai-teapot-AC449_0-630x630.jpg",
+     "price": "13.00",
+     "quantity": 38,
+     "currency": "lei",
+     "category": "Extras",
+     "description": "Infuzor metalic cu diametrul de 54mm. Ideal pentru prepararea ceaiului în cană sau în ceainic.",
+     "id": "45"
+    },
+    {
+     "name": "INFUZOR CEAI PIRAMIDA",
+     "picture": "https://doro-tea.ro/image/cache/data/infuzoare/infuzor-ceai-piramida-AC713_0-630x630.jpg",
+     "price": "16.00",
+     "quantity": 81,
+     "currency": "lei",
+     "category": "Extras",
+     "description": "Infuzor metalic pentru ceai in forma de piramida cu snur si carlig.",
+     "id": "46"
+    },
+    {
+     "name": "CEAINIC LUT YIXING CLASSIC 1500ML",
+     "picture": "https://doro-tea.ro/image/cache/data/57133-630x630.jpg",
+     "price": "129.00",
+     "quantity": 15,
+     "currency": "lei",
+     "category": "Extras",
+     "description": "Ceainic de lut, cu maner de bambus, ideal pentru servirea a aprox. 1500 ml de ceai.",
+     "id": "47"
+    },
+    {
+     "name": "CEAINIC FONTA EMEI 300ML",
+     "picture": "https://doro-tea.ro/image/cache/data/ceainice/AC747-ceainic-emei-300ml-630x630.jpg",
+     "price": "157.00",
+     "quantity": 63,
+     "currency": "lei",
+     "category": "Extras",
+     "description": "Cu un ceainic de fonta savoarea ceaiului urca la un nivel superior. Fierul pastreaza temperatura uniforma pentru a extrage mai bine aroma frunzelor de ceai. Cu o ingrijire adecvata, ceainicul de fonta va poate ramane un prieten de nadejde multe decenii - dupa folosire clatiti ceainicul de fonta cu apa calda si indepartati eventuale reziduri cu o laveta uda, fara a folosi detergent sau alte solutii de curatare.",
+     "id": "48"
+    },
+    {
+     "name": "CEAINIC ALB DIN FONTA SHANXI 700ML",
+     "picture": "https://doro-tea.ro/image/cache/data/ceainice/AC816-ceainic-alb-fonta-shanxi-700ml-630x630.jpg",
+     "price": "82.00",
+     "quantity": 79,
+     "currency": "lei",
+     "category": "Extras",
+     "description": "Cu un ceainic de fonta savoarea ceaiului urca la un nivel superior. Fierul pastreaza temperatura uniforma pentru a extrage mai bine aroma frunzelor de ceai. Cu o ingrijire adecvata, ceainicul de fonta va poate ramane un prieten de nadejde multe decenii - dupa folosire clatiti ceainicul de fonta cu apa calda si indepartati eventuale reziduri cu o laveta uda, fara a folosi detergent sau alte solutii de curatare. ",
+     "id": "49"
+    },
+    {
+     "name": "CEANIC LUT YIXING FLOWER ORIGINAL 150ML",
+     "picture": "https://doro-tea.ro/image/cache/data/ceainice/AC954-ceanic-lut-yixing-flower-150ml-original-1080x1080.jpg",
+     "price": "62.00",
+     "quantity": 62,
+     "currency": "lei",
+     "category": "Extras",
+     "description": "Ceainic de lut ideal pentru servirea a aprox. 150 ml de ceai, pictat cu model floral.",
+     "id": "28"
+    },
+    {
+     "name": "AMESTECATOR CEAI MATCHA ",
+     "picture": "https://doro-tea.ro/image/cache/data/matcha/AC786-630x630.jpg",
+     "price": "94.00",
+     "quantity": 44,
+     "currency": "lei",
+     "category": "Extras",
+     "description": "Numită și 'mătură' sau 'pămătuf' din cauza formei sale, Chasen este un accesoriu de nelipsit din trusa oricărui iubitor de matcha - fiind un element central în ritualul de preparare al ceaiului.",
+     "id": "50"
+    },
+    {
+     "name": "MĂSURĂ CEAI MATCHA",
+     "picture": "https://doro-tea.ro/image/cache/data/matcha/AC791-630x630.jpg",
+     "price": "22.00",
+     "quantity": 84,
+     "currency": "lei",
+     "category": "Extras",
+     "description": "Lingură pentru dozarea ceaiului matcha. Dimensiuni: 1.6 x 6 cm. Culoare: bambus natur. Un produs fabricat în China.",
+     "id": "51"
+    },
+    {
+     "name": "SUPORT AMESTECATOR MATCHA 'TAKEA'",
+     "picture": "https://doro-tea.ro/image/cache/data/matcha/AC815-suport-matura-matcha-takea-630x630.jpg",
+     "price": "39.00",
+     "quantity": 81,
+     "currency": "lei",
+     "category": "Extras",
+     "description": "Suportul din porțelan Takea este special realizat pentru buna depozitare a amestecătorului Chasen și prelungește durata de viață a acestuia. După utilizare clătiți amestecatorul cu apă caldă și puneți-l pe suportul Takea. Atenție, acest produs nu include amestecatorul, el poate fi cumpărat separat. Un produs fabricat în Japonia.",
+     "id": "52"
+    }
+   ]
