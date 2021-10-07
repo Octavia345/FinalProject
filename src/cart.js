@@ -24,9 +24,9 @@ const message = document.getElementById("shopcartMessage");
                 <tr class="cartItem">
                 <td><a href="details.html?id=${product.id}" id="productNameLink">${product.name}</a></td>
                 <td>
-                <button action="remove" class="qtyBtn mr-2" id="decrease">-</button>
+                <button action="remove" class="qtyBtn mr-2" id="decrease" data-id="${product.id}">-</button>
                 <input class="quantity" id="quantityInput" type="number" name="quantity" value="${product.quantity}" max="" min="1"/>
-                <button action="add" class="qtyBtn ml-2" id="increase">+</button>
+                <button action="add" class="qtyBtn ml-2" id="increase" data-id="${product.id}>+</button>
                 </td>
                 <td class="productPrice">${product.price}</td>
                 <td></td>
@@ -53,6 +53,10 @@ const message = document.getElementById("shopcartMessage");
   }
 
 }
+
+$(document).ready(function(){
+  $(input)
+})
 
 // $("#increase").on("click", function(){
 //   let products = JSON.parse(localStorage.getItem("cart"));

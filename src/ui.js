@@ -22,9 +22,9 @@ class UI {
 			 <div class="card m-3" style="width: 20%;">
 				<div class="card-body">
 				   <img src="${product.picture}" alt="sample">
-				   <h5 class="product-name">${product.name}</h5>
+				   <h5 class="product-name" style="font-family: 'Linotype Didot';font-style: italic; ">${product.name}</h5>
 				   <p class="product-price">${product.price} ${product.currency}</p>
-				   <a class="btn btn-outline-dark"  onclick="location.href='details.html?id=${product.id}';" id="${product.id}">DETAILS</a>
+				   <a class="btn btn-dark"  onclick="location.href='details.html?id=${product.id}';" id="${product.id}">DETAILS</a>
 				</div>
 			 </div>
 			 `;
@@ -126,7 +126,7 @@ class UI {
     </div>
     <div class="col-4 description">
 
-      <h5 id="product-name">${product[0].name}</h5>
+      <h5 id="product-name" style="font-family: 'Linotype Didot';font-style: italic;font-weight: normal; font-size: 2rem">${product[0].name}</h5>
       <p id="product-id">${product[0].id}</p>
       <p><span class="mr-1" ><strong id="product-price">${product[0].price} ${product[0].currency}</strong></span></p>
       <p class="pt-1">${product[0].description}</p>
