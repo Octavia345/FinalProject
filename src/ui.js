@@ -112,9 +112,9 @@ class UI {
 
           <div class="col-7 mb-0 ">
             <figure class="view overlay rounded z-depth-1 main-img">
-              <a href="${product[0].picture}"
+              <a href="${product[0].image}"
                 data-size="710x823">
-                <img src="${product[0].picture}"
+                <img src="${product[0].image}"
                   class="z-depth-5">
               </a>
             </figure>

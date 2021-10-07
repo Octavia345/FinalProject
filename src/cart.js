@@ -2,6 +2,8 @@
 
 document.addEventListener("DOMContentLoaded", ()=>{
   showProductsInCart()
+  countTheTotal()
+
   
 
 });
@@ -24,9 +26,9 @@ const message = document.getElementById("shopcartMessage");
                 <tr class="cartItem">
                 <td><a href="details.html?id=${product.id}" id="productNameLink">${product.name}</a></td>
                 <td>
-                <button action="remove" class="qtyBtn mr-2" id="decrease" data-id="${product.id}">-</button>
-                <input class="quantity" id="quantityInput" type="number" name="quantity" value="${product.quantity}" max="" min="1"/>
-                <button action="add" class="qtyBtn ml-2" id="increase" data-id="${product.id}>+</button>
+                <button action="remove" class="qtyBtn mr-2" id="decrease" >-</button>
+                <input class="quantity" onChange="countTheTotal()" id="quantityInput" type="number" name="quantity" value="${product.quantity}" max="" min="1"/>
+                <button action="add" class="qtyBtn ml-2" id="increase" >+</button>
                 </td>
                 <td class="productPrice">${product.price}</td>
                 <td></td>
@@ -54,46 +56,28 @@ const message = document.getElementById("shopcartMessage");
 
 }
 
-$(document).ready(function(){
-  $(input)
+$('table').on('click', 'button[class="deleteProduct"]', function(e){
+ 
+   
+  $(this).closest('tr').remove()
+ 
+  const id = e.target.id;
+ 
+  const cart = JSON.parse(localStorage.getItem("cart"));
+ 
+   const removeIndex = cart.findIndex(item => item.id === id)
+    cart.splice(removeIndex,1)
+    localStorage.setItem("cart",JSON.stringify(cart))
+      
+    
+  
+   window.location.reload()
+   countTheTotal()
 })
 
-// $("#increase").on("click", function(){
-//   let products = JSON.parse(localStorage.getItem("cart"));
-//   for(let i = 0; i < products.length; i++ ){
-//     let inputValue = document.getElementsByClassName("quantity").value;
-//     inputValue = products[i].quantity++;
-//     localStorage.setItem("cart",JSON.stringify(cart));
-//   }
-  
-// })
-
-  // const plusBtn = document.getElementById("increase");
-  // plusBtn.addEventListener("click", increase(e))
-  // console.log(plusBtn)
-  // function increase() {
-  //   let products = JSON.parse(localStorage.getItem("cart"));
-  //   for (let i = 0; i < products.length; i++) {
-  //     let inputValue = document.getElementsByClassName("quantity").value;
-  //     inputValue = products[i].quantity;
-  //     inputValue = inputValue + 1;
-  //     localStorage.setItem("cart", JSON.stringify(cart));
-  //   }
-  //   window.location.reload();
-  // }
 
 
 
-
-// function decrease(){
-//   let products = JSON.parse(localStorage.getItem("cart"));
-//   for(let i = 0 ; i <products.length; i ++){
-//     let inpuValue = document.getElementsByClassName("quantity").value;
-//     inpuValue = products[i].quantity--;
-//     localStorage.setItem("cart", JSON.stringify(cart))
-//   }
-//   window.location.reload()
-// }
 
 
 
@@ -116,39 +100,15 @@ $(document).ready(function(){
   cartTotal.innerText=total + " lei";
   console.log(total)
   
-  
- }
+}  
 
 
-
-
-
-$('table').on('click', 'button[class="deleteProduct"]', function(e){
+// jQuery(function countTheTotal(){
  
-   
-  $(this).closest('tr').remove()
- 
-  const id = e.target.id;
- 
-  const cart = JSON.parse(localStorage.getItem("cart"));
- 
-   const removeIndex = cart.findIndex(item => item.id === id)
-    cart.splice(removeIndex,1)
-    localStorage.setItem("cart",JSON.stringify(cart))
-      
-    
-  
-   window.location.reload()
-   countTheTotal()
-})
-
-
-//    function countTheTotal(){
-//  let parentElement = document.getElementById("cart-container");
-//  let items = parentElement.getElementsByClassName("cartItem");
+//  let items = document.getElementsByClassName("cartItem");
 //  let total = 0;
 //  for(let i=0; i < items.length; i++){
-//    let item = items[0];
+//    let item = items[i];
 //    let priceInLei = item.getElementsByClassName("productPrice")[0];
 //    let price= parseFloat(priceInLei.innerText.replace("lei", ""))
 //    let qtyElement =item.getElementsByClassName("quantity")[0];
@@ -160,7 +120,39 @@ $('table').on('click', 'button[class="deleteProduct"]', function(e){
 //  }
 //  const cartTotal = document.getElementById("cartTotal");
 //  cartTotal.innerText = total + " lei";
+
+//  inputChange()
+// })
+
+
+
+  // const plusBtn = document.getElementById("increase");
+  // plusBtn.addEventListener("click", increase(e))
+  // console.log(plusBtn)
+  // function increase() {
+  //   let products = JSON.parse(localStorage.getItem("cart"));
+  //   for (let i = 0; i < products.length; i++) {
+  //     let inputValue = document.getElementsByClassName("quantity").value;
+  //     inputValue = products[i].quantity;
+  //     inputValue = inputValue + 1;
+  //     localStorage.setItem("cart", JSON.stringify(cart));
+  //   }
+  //   window.location.reload();
+  // }
+
+// function decrease(){
+//   let products = JSON.parse(localStorage.getItem("cart"));
+//   for(let i = 0 ; i <products.length; i ++){
+//     let inpuValue = document.getElementsByClassName("quantity").value;
+//     inpuValue = products[i].quantity--;
+//     localStorage.setItem("cart", JSON.stringify(cart))
+//   }
+//   window.location.reload()
 // }
+
+
+
+
 
 
 
